@@ -1,2 +1,2 @@
 # MachineVisionFall1400
-Codes of Machine Vision Course 
+Machine Vision Course codes in Python
